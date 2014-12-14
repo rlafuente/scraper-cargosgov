@@ -13,15 +13,15 @@ Como usar
 
 Para a ajuda dos comandos do script:
 
-    python scraper-interessesgov.py --help
+    python scraper-cargosgov.py --help
 
 Para correr:
 
-    python scraper-interessesgov.py
+    python scraper-cargosgov.py
 
 Para ter resultados em JSON em vez de CSV:
 
-    python scraper-interessesgov.py --format json
+    python scraper-cargosgov.py --format json
 
 
 Campos do CSV/JSON resultante
