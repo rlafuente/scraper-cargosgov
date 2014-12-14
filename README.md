@@ -27,9 +27,9 @@ Para ter resultados em JSON em vez de CSV:
 Campos do CSV/JSON resultante
 -------------------------
 
-  * `name` -- Título da iniciativa (_Proposta de Lei 231/XII_)
-  * `post` -- Sumário da iniciativa 
-  * `start_date` -- Número de identificação do documento no Parlamento.pt (_38526_)
-  * `end_date` -- Lista dos autores do documento
+  * `name` -- Nome da pessoa
+  * `post` -- Cargo no Governo
+  * `start_date` -- Data de início do cargo
+  * `end_date` -- Data de fim do cargo
 
 
