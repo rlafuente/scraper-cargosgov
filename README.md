@@ -1,6 +1,8 @@
 
 Este scraper recolhe a lista de cargos do 19º Governo (Passos Coelho) a partir do [site do Parlamento](http://www.parlamento.pt).
 
+Infelizmente só funciona mesmo nesse governo.
+
 Método
 ------
 
